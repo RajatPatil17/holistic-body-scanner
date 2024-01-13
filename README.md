@@ -1,0 +1,1 @@
+This is program takes live video input via opencv functions then uses the mdeiapipe libraries to map landmarks onto the body including face, hands and body(pose). Using these, a holistic mapping of the human body is achieved where live time tracking as well as updation is performed.
