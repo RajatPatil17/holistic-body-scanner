@@ -13,4 +13,4 @@ while cap.isOpened():
     if key == ord('q'):
         break
 cap.release()
-cap.destroyAllWindows()
+cv2.destroyAllWindows()
